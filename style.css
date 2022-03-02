@@ -40,7 +40,7 @@ h2 {
   text-decoration:none;
   text-transform:uppercase;
   font-weight: 500;
-  font-size:18px;
+  font-size:16px;
   padding:16px 32px;
   display: inline-block;
    border-radius: 100px;
@@ -54,9 +54,8 @@ h2 {
   
 .btn--big
 {
-  font-size:18px;
-  padding:18px 34px;
-
+  font-size:16px;
+  padding:16px 32px;
 }
 .btn--small{
   font-size:12px;
